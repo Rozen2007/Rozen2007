@@ -33,15 +33,13 @@
 - ⚡ Fun fact: I am a district level Footballer
 
 <br/>
-<table>
-<tr>
+<h3 align="center">Statistics</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rozen2007&show_icons=true&show_icons=true&theme=radical" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rozen2007&layout=compact&show_icons=true&theme=radical" alt="top-langs" />
+</p>
   
-  <td>
-  
-
-
-
-
+  <td> 
 
 <div align='center'>
   <h1 align='center'> Show some ❤️ by starring some of the repositories ;) </h1>
