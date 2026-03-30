@@ -32,14 +32,11 @@
   
 <br/>
 <h3 align="center">Statistics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rozen2007&show_icons=true&show_icons=true&theme=radical" alt="github-stats" />
 
-</p>
   
   <td> 
 
 <div align='center'>
-  <h1 align='center'> Show some ❤️ by starring some of the repositories ;) </h1>
+  <h3 align='center'> Show some ❤️ by starring some of the repositories ;) </h3>
   </div>
   <h6>made with love by Rozen ❤️</h6>
