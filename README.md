@@ -24,14 +24,12 @@
 
 
 
-- 🔭 I’m a 14 year old 8th grade student
+- 🔭 I’m a 19 year old 8th grade student
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on my github repos
 - 🤔 I’m looking for help with python, react.
 - 💬 Ask me about react, html, css
-- 😄 Pronouns: Myself
-- ⚡ Fun fact: I am a district level Footballer
-
+  
 <br/>
 <h3 align="center">Statistics</h3>
 <p align="center">
