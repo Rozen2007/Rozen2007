@@ -24,7 +24,7 @@
 
 
 
-- 🔭 I’m a 19 year old 8th grade student
+- 🔭 I’m a 19 year old student
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on my github repos
 - 🤔 I’m looking for help with python, react.
