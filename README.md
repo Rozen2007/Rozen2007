@@ -41,7 +41,7 @@ Winners don't make excuses when the rules change; they rewrite them. I architect
 
 <div align="centre">
   <img  src="https://streak-stats.demolab.com?user=Rozen2007&theme=tokyonight&hide_border=true&background=161b22" alt="GitHub Streak" />
-   <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rozen2007&theme=holi"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rozen2007&theme=holi"/>
 </div>
 
 
