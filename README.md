@@ -29,17 +29,23 @@ Winners don't make excuses when the rules change; they rewrite them. I architect
 | **Backend & Systems** | Node.js, REST APIs, Webhooks, Asynchronous Logic |
 | **Infrastructure & Data** | SQLite, PostgreSQL, Git, GitHub, Docker |
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</div>
 
 ### 📊 METRICS DON'T LIE
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rozen2007&show_icons=true&theme=radical&hide_border=true&bg_color=161b22" alt="Rozen's GitHub Stats" />
+<div align="centre">
+  <img  src="https://streak-stats.demolab.com?user=Rozen2007&theme=tokyonight&hide_border=true&background=161b22" alt="GitHub Streak" />
+   <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rozen2007&theme=holi"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rozen2007&layout=compact&theme=radical&hide_border=true&bg_color=161b22" alt="Top Languages" />
-</div>
+
+
 
 ---
 
